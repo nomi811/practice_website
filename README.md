@@ -1,7 +1,1 @@
-<HTML>
-  <head></head>
-  <title></title>
-  <body>
-    <p></p>
-  </body>
-</HTML>
+A tutorial about HTML from Learn Enough to be Dangerous
